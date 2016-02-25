@@ -1,0 +1,19 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Workflow Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nannen05/workflow-training.git"
+  },
+  "author": "Nick Annen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nannen05/workflow-training/issues"
+  },
+  "homepage": "https://github.com/nannen05/workflow-training#readme"
+}
